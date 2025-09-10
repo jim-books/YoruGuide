@@ -82,12 +82,12 @@
 		C668D7DB2E7131EB0054993E = {
 			isa = PBXGroup;
 			children = (
+				C66645ED2E71341E00924EEF /* README.md */,
 				C66645EF2E71344B00924EEF /* LICENSE.txt */,
 				C668D7E62E7131EB0054993E /* YoruGuide */,
 				C668D7F42E7131ED0054993E /* YoruGuideTests */,
 				C668D7FE2E7131ED0054993E /* YoruGuideUITests */,
 				C668D7E52E7131EB0054993E /* Products */,
-				C66645ED2E71341E00924EEF /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
