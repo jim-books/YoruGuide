@@ -5,9 +5,24 @@ _A fan-created Yorushika Catalog & AI‑Powered Interactive Guide_
 
 ---
 
+## 📑 Table of Contents  
+- [📖 Overview](#-overview)  
+- [🎮 Live Demo](#-live-demo)  
+- [🎯 Goals](#-goals)  
+- [🗂 Data Model](#-data-model)  
+- [🛠 Tech Stack](#-tech-stack)  
+- [📱 Features](#-features)  
+- [🤖 AI Assistant](#-ai-assistant)  
+- [🚀 Getting Started](#-getting-started)  
+- [🧩 Engineering Highlights](#-engineering-highlights)  
+- [🙌 Credits](#-credits)  
+- [🛤 Roadmap](#-roadmap)  
+
+---
+
 ## 📖 Overview  
 
-**Yoru Guide** is a comprehensive fan‑made iOS & visionOS app that presents the entire catalog of **Yorushika (ヨルシカ)** works, including:  
+**YoruGuide** is a comprehensive fan‑made iOS & visionOS app that presents the entire catalog of **Yorushika (ヨルシカ)** works, including:  
 - Albums & songs (JP / Romaji / EN)  
 - Translations & annotations  
 - Trivia and backstories  
@@ -20,6 +35,12 @@ _A fan-created Yorushika Catalog & AI‑Powered Interactive Guide_
 ⚠️ **Disclaimer:** This project is **fan‑made and non‑commercial**. All original music and rights belong to Yorushika and official publishers.  
 
 ---
+
+## 🎮 Live Demo
+You can try YoruGuide instantly in your browser via Appetize.io:
+
+[![Run YoruGuide](https://img.shields.io/badge/Try%20YoruGuide-Live%20Demo-blue?logo=ios&logoColor=white)](https://yorushika.com)
+
 
 ## 🎯 Goals  
 
@@ -161,7 +182,7 @@ The song went viral for its poignant lyrics, expressive vocals, and themes of lo
 
 - **Yorushika** — the inspiration and all their music  
 - **Community translators & fans** — spreadsheet data & annotations  
-- **Created by [Your Name](https://linkedin.com/in/yourprofile)** — as a SwiftUI & visionOS engineering showcase with AI  
+- **Created by [Your Name](https://linkedin.com/in/jimmyhkh)** — as a SwiftUI & visionOS engineering showcase with AI  
 
 ---
 
@@ -173,5 +194,3 @@ The song went viral for its poignant lyrics, expressive vocals, and themes of lo
 - [ ] Add **relationship map view** between albums and stories  
 - [ ] Write technical blog: *“AI‑Linked SwiftUI: Building Entity‑Aware Assistants in iOS & visionOS”*  
 ```
-
----
