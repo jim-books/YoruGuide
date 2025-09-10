@@ -6,6 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C66645EE2E71341E00924EEF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C66645ED2E71341E00924EEF /* README.md */; };
+		C66645F02E71344C00924EEF /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = C66645EF2E71344B00924EEF /* LICENSE.txt */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		C668D7F22E7131ED0054993E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +29,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C66645ED2E71341E00924EEF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C66645EF2E71344B00924EEF /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		C668D7E42E7131EB0054993E /* YoruGuide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoruGuide.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C668D7F12E7131ED0054993E /* YoruGuideTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YoruGuideTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C668D7FB2E7131ED0054993E /* YoruGuideUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YoruGuideUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,10 +82,12 @@
 		C668D7DB2E7131EB0054993E = {
 			isa = PBXGroup;
 			children = (
+				C66645EF2E71344B00924EEF /* LICENSE.txt */,
 				C668D7E62E7131EB0054993E /* YoruGuide */,
 				C668D7F42E7131ED0054993E /* YoruGuideTests */,
 				C668D7FE2E7131ED0054993E /* YoruGuideUITests */,
 				C668D7E52E7131EB0054993E /* Products */,
+				C66645ED2E71341E00924EEF /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +221,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C66645F02E71344C00924EEF /* LICENSE.txt in Resources */,
+				C66645EE2E71341E00924EEF /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
