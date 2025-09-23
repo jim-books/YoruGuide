@@ -13,5 +13,12 @@ struct YoruGuideApp: App {
         WindowGroup {
             ContentView()
         }
+        
+        #if os(visionOS)
+        ImmersiveSpace(id: "AlbumGallery") {
+            AlbumGalleryView()
+        }
+        #endif
+        
     }
 }
