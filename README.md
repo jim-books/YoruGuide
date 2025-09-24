@@ -41,6 +41,7 @@ You can try YoruGuide instantly in your browser via Appetize.io:
 
 [![Run YoruGuide](https://img.shields.io/badge/Try%20YoruGuide-Live%20Demo-blue?logo=ios&logoColor=white)](https://yorushika.com)
 
+![Domain Model](./YourGuideDataModel_24Sep2025.png)
 
 ## 🎯 Goals  
 
@@ -57,35 +58,7 @@ The dataset originates from the community‑maintained
 [Yorushika Song Spreadsheet (Google Sheets)](https://docs.google.com/spreadsheets/d/1sqwarEZIDQo4eTnnnQaQb0RgZJGdZrW8hEp8WbfVDlQ),  
 extended with curated trivia and fan notes.  
 
-```swift
-struct Song: Identifiable {
-    let id: UUID
-    let titleJP: String
-    let titleRomaji: String
-    let titleEN: String
-    let album: String
-    let notes: String?
-    let isInstrumental: Bool
-}
 
-struct Album: Identifiable {
-    let id: UUID
-    let nameJP: String
-    let nameRomaji: String
-    let nameEN: String
-    let year: Int
-}
-
-struct Bookmark {
-    let songID: UUID
-    let dateAdded: Date
-}
-
-struct AIReference {
-    let query: String
-    let linkedEntityID: UUID
-}
-```
 
 ---
 
@@ -182,7 +155,7 @@ The song went viral for its poignant lyrics, expressive vocals, and themes of lo
 
 - **Yorushika** — the inspiration and all their music  
 - **Community translators & fans** — spreadsheet data & annotations  
-- **Created by [Your Name](https://linkedin.com/in/jimmyhkh)** — as a SwiftUI & visionOS engineering showcase with AI  
+- **Created by [Jimmy Hung](https://linkedin.com/in/jimmyhkh)** — as a SwiftUI & visionOS engineering showcase with AI  
 
 ---
 

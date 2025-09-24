@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C65D5FD22E83C3AD00160F51 /* YourGuideDataModel_24Sep2025.png in Resources */ = {isa = PBXBuildFile; fileRef = C65D5FD12E83C3AD00160F51 /* YourGuideDataModel_24Sep2025.png */; };
 		C66645EE2E71341E00924EEF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C66645ED2E71341E00924EEF /* README.md */; };
 		C66645F02E71344C00924EEF /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = C66645EF2E71344B00924EEF /* LICENSE.txt */; };
 /* End PBXBuildFile section */
@@ -29,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C65D5FD12E83C3AD00160F51 /* YourGuideDataModel_24Sep2025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YourGuideDataModel_24Sep2025.png; sourceTree = "<group>"; };
 		C66645ED2E71341E00924EEF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C66645EF2E71344B00924EEF /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		C668D7E42E7131EB0054993E /* YoruGuide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoruGuide.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -83,6 +85,7 @@
 			isa = PBXGroup;
 			children = (
 				C66645ED2E71341E00924EEF /* README.md */,
+				C65D5FD12E83C3AD00160F51 /* YourGuideDataModel_24Sep2025.png */,
 				C66645EF2E71344B00924EEF /* LICENSE.txt */,
 				C668D7E62E7131EB0054993E /* YoruGuide */,
 				C668D7F42E7131ED0054993E /* YoruGuideTests */,
@@ -222,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C66645F02E71344C00924EEF /* LICENSE.txt in Resources */,
+				C65D5FD22E83C3AD00160F51 /* YourGuideDataModel_24Sep2025.png in Resources */,
 				C66645EE2E71341E00924EEF /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
