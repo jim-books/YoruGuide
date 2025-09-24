@@ -41,8 +41,6 @@ You can try YoruGuide instantly in your browser via Appetize.io:
 
 [![Run YoruGuide](https://img.shields.io/badge/Try%20YoruGuide-Live%20Demo-blue?logo=ios&logoColor=white)](https://yorushika.com)
 
-![Domain Model](./YourGuideDataModel_24Sep2025.png)
-
 ## 🎯 Goals  
 
 - Build a **data‑driven catalog app** with iOS & visionOS interfaces  
@@ -58,7 +56,7 @@ The dataset originates from the community‑maintained
 [Yorushika Song Spreadsheet (Google Sheets)](https://docs.google.com/spreadsheets/d/1sqwarEZIDQo4eTnnnQaQb0RgZJGdZrW8hEp8WbfVDlQ),  
 extended with curated trivia and fan notes.  
 
-
+![Domain Model](./YourGuideDataModel_24Sep2025.png)
 
 ---
 
