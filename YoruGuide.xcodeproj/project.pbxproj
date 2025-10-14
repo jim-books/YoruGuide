@@ -6,6 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C64679B02E9EB56700F95649 /* YourGuideDataModel_24Sep2025.png in Resources */ = {isa = PBXBuildFile; fileRef = C64679AF2E9EB56700F95649 /* YourGuideDataModel_24Sep2025.png */; };
+		C64679B12E9EB56700F95649 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = C64679AD2E9EB56700F95649 /* LICENSE.txt */; };
+		C64679B22E9EB56700F95649 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C64679AE2E9EB56700F95649 /* README.md */; };
+		C64679B42E9EB59700F95649 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C64679B32E9EB59200F95649 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		C646798D2E9EB50B00F95649 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +34,10 @@
 		C646797F2E9EB50800F95649 /* YoruGuide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoruGuide.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C646798C2E9EB50B00F95649 /* YoruGuideTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YoruGuideTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C64679962E9EB50B00F95649 /* YoruGuideUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YoruGuideUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C64679AD2E9EB56700F95649 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		C64679AE2E9EB56700F95649 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C64679AF2E9EB56700F95649 /* YourGuideDataModel_24Sep2025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YourGuideDataModel_24Sep2025.png; sourceTree = "<group>"; };
+		C64679B32E9EB59200F95649 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +86,10 @@
 		C64679762E9EB50800F95649 = {
 			isa = PBXGroup;
 			children = (
+				C64679AD2E9EB56700F95649 /* LICENSE.txt */,
+				C64679AE2E9EB56700F95649 /* README.md */,
+				C64679B32E9EB59200F95649 /* .gitignore */,
+				C64679AF2E9EB56700F95649 /* YourGuideDataModel_24Sep2025.png */,
 				C64679812E9EB50800F95649 /* YoruGuide */,
 				C646798F2E9EB50B00F95649 /* YoruGuideTests */,
 				C64679992E9EB50B00F95649 /* YoruGuideUITests */,
@@ -212,6 +227,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C64679B42E9EB59700F95649 /* .gitignore in Resources */,
+				C64679B02E9EB56700F95649 /* YourGuideDataModel_24Sep2025.png in Resources */,
+				C64679B12E9EB56700F95649 /* LICENSE.txt in Resources */,
+				C64679B22E9EB56700F95649 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -400,11 +419,14 @@
 				DEVELOPMENT_TEAM = F5MTVA5YY6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = YoruGuide;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -413,12 +435,16 @@
 				PRODUCT_BUNDLE_IDENTIFIER = jimbook.YoruGuide;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator xros xrsimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,7";
 			};
 			name = Debug;
 		};
@@ -432,11 +458,14 @@
 				DEVELOPMENT_TEAM = F5MTVA5YY6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = YoruGuide;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -445,12 +474,16 @@
 				PRODUCT_BUNDLE_IDENTIFIER = jimbook.YoruGuide;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator xros xrsimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,7";
 			};
 			name = Release;
 		};
