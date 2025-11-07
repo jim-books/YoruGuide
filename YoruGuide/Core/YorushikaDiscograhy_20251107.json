@@ -1,0 +1,1449 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-11-05T00:00:00Z",
+  "releases": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "nameJP": "夏草が邪魔をする",
+      "nameRomaji": "Natsukusa ga Jyama wo Suru",
+      "nameEN": "The Summer Grass Gets In The Way",
+      "releaseDate": "2017-06-28",
+      "type": "MINI_ALBUM",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/1f2525fb9bbf8f42904fe4af3a09e87a.jpeg",
+      "description": "Yorushika's 1st mini album released on U&R Records. A rock album with 24m50s runtime, charting at #32 on Oricon. Features instrumental tracks and includes \"言って。\" which reached 100M YouTube views by 2021.",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440101",
+          "titleJP": "夏陰、ピアノを弾く",
+          "titleRomaji": "Natsukage, Piano wo Hiku",
+          "titleEN": "Playing Piano in the Shadow of Summer",
+          "trackNumber": 1,
+          "duration": 94,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440102",
+          "titleJP": "カトレア",
+          "titleRomaji": "Cattleya",
+          "titleEN": "Cattleya",
+          "trackNumber": 2,
+          "duration": 188,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440103",
+          "titleJP": "言って。",
+          "titleRomaji": "Itte.",
+          "titleEN": "Say it.",
+          "trackNumber": 3,
+          "duration": 242,
+          "notes": "Music video reached 100 million views on YouTube by July 2021"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440104",
+          "titleJP": "あの夏に咲け",
+          "titleRomaji": "Ano Natsu ni Sake",
+          "titleEN": "Blooming In That Summer",
+          "trackNumber": 4,
+          "duration": 258,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440105",
+          "titleJP": "飛行",
+          "titleRomaji": "Hikou",
+          "titleEN": "Flying",
+          "trackNumber": 5,
+          "duration": 90,
+          "notes": "Instrumental track"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440106",
+          "titleJP": "靴の花火",
+          "titleRomaji": "Kutsu no Hanabi",
+          "titleEN": "Fireworks Beneath My Shoes",
+          "trackNumber": 6,
+          "duration": 303,
+          "notes": "Self-covered in 2023 album \"幻燈\""
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440107",
+          "titleJP": "雲と幽霊",
+          "titleRomaji": "Kumo to Yuurei",
+          "titleEN": "Ghost",
+          "trackNumber": 7,
+          "duration": 315,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "nameJP": "負け犬にアンコールはいらない",
+      "nameRomaji": "Makeinu ni Encore wa Iranai",
+      "nameEN": "A Loser Doesn't Need An Encore",
+      "releaseDate": "2018-05-09",
+      "type": "MINI_ALBUM",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/9088008c68f0cc13f0024397770a066a.jpeg",
+      "description": "Yorushika's 2nd mini album released one year after their debut. N-buna experienced a creative slump before this release but incorporated more input from vocalist suis and the recording engineer. 28m42s runtime, charted at #5 on Oricon. Features the hit track \"ただ君に晴れ\" which reached 100M views and streams.",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440201",
+          "titleJP": "前世",
+          "titleRomaji": "Zense",
+          "titleEN": "Past Life",
+          "trackNumber": 1,
+          "duration": 79,
+          "notes": "Instrumental track"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440202",
+          "titleJP": "負け犬にアンコールはいらない",
+          "titleRomaji": "Makeinu ni Encore wa Iranai",
+          "titleEN": "Underdog",
+          "trackNumber": 2,
+          "duration": 234,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440203",
+          "titleJP": "爆弾魔",
+          "titleRomaji": "Bakudanma",
+          "titleEN": "Compulsive Bomber",
+          "trackNumber": 3,
+          "duration": 217,
+          "notes": "Self-covered in 2020 album \"盗作\""
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440204",
+          "titleJP": "ヒッチコック",
+          "titleRomaji": "Hitchcock",
+          "titleEN": "Hitchcock",
+          "trackNumber": 4,
+          "duration": 222,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440205",
+          "titleJP": "落下",
+          "titleRomaji": "Rakka",
+          "titleEN": "Falling",
+          "trackNumber": 5,
+          "duration": 74,
+          "notes": "Instrumental track"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440206",
+          "titleJP": "準透明少年",
+          "titleRomaji": "Juntoumei Shounen",
+          "titleEN": "Semi-Transparent Boy",
+          "trackNumber": 6,
+          "duration": 281,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440207",
+          "titleJP": "ただ君に晴れ",
+          "titleRomaji": "Tada Kimi ni Hare",
+          "titleEN": "Cloudless",
+          "trackNumber": 7,
+          "duration": 198,
+          "notes": "Music video reached 100 million views on August 29, 2020 and streaming reached 100 million in October 2020"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440208",
+          "titleJP": "冬眠",
+          "titleRomaji": "Toumin",
+          "titleEN": "Hibernation",
+          "trackNumber": 8,
+          "duration": 301,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440209",
+          "titleJP": "夏、バス停、君を待つ",
+          "titleRomaji": "Natsu, Basutei, Kimi wo Matsu",
+          "titleEN": "Summer, Bus Stop, Waiting for You",
+          "trackNumber": 9,
+          "duration": 116,
+          "notes": "Instrumental track"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440003",
+      "nameJP": "だから僕は音楽を辞めた",
+      "nameRomaji": "Dakara Boku wa Ongaku o Yameta",
+      "nameEN": "That's Why I Gave Up On Music",
+      "releaseDate": "2019-04-10",
+      "type": "ALBUM",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/f75d17e2ec5cebfb81fd579348cc7a11.jpeg",
+      "description": "Yorushika's 1st full album and a concept album centered on n-buna's narrative. Features protagonist \"Eimī\", a young man who gives up music and travels through Sweden, writing letters to \"Elma\". 49m16s runtime, charted at #5 on Oricon with English title \"Moonlight\". Includes special limited edition wooden box packaging with letters and photos.",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440301",
+          "titleJP": "8/31",
+          "titleRomaji": "8/31",
+          "titleEN": "8/31",
+          "trackNumber": 1,
+          "duration": 114,
+          "notes": "Instrumental track featuring Stockholm setting"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440302",
+          "titleJP": "藍二乗",
+          "titleRomaji": "Ai Nijou",
+          "titleEN": "Blur",
+          "trackNumber": 2,
+          "duration": 245,
+          "notes": "Featured in album trailer and MV"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440303",
+          "titleJP": "八月、某、月明かり",
+          "titleRomaji": "Hachigatsu, Nanigashi, Tsukiakari",
+          "titleEN": "August, That Place, Moonlight",
+          "trackNumber": 3,
+          "duration": 276,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440304",
+          "titleJP": "詩書きとコーヒー",
+          "titleRomaji": "Shikaki to Koohii",
+          "titleEN": "Lyric-writing and Coffee",
+          "trackNumber": 4,
+          "duration": 247,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440305",
+          "titleJP": "7/13",
+          "titleRomaji": "7/13",
+          "titleEN": "7/13",
+          "trackNumber": 5,
+          "duration": 98,
+          "notes": "Instrumental track featuring Visby setting"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440306",
+          "titleJP": "踊ろうぜ",
+          "titleRomaji": "Odorouze",
+          "titleEN": "I'll Dance",
+          "trackNumber": 6,
+          "duration": 253,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440307",
+          "titleJP": "六月は雨上がりの街を書く",
+          "titleRomaji": "Rokugatsu wa Ameagari no Machi wo Kaku",
+          "titleEN": "In June, I'll Write About The Town After The Rain",
+          "trackNumber": 7,
+          "duration": 238,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440308",
+          "titleJP": "五月は花緑青の窓辺から",
+          "titleRomaji": "Gogatsu wa Hanarokushou no Madobe Kara",
+          "titleEN": "In May, From the Window with Emerald Green",
+          "trackNumber": 8,
+          "duration": 185,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440309",
+          "titleJP": "夜紛い",
+          "titleRomaji": "Yorumagai",
+          "titleEN": "False Night",
+          "trackNumber": 9,
+          "duration": 223,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440310",
+          "titleJP": "5/6",
+          "titleRomaji": "5/6",
+          "titleEN": "5/6",
+          "trackNumber": 10,
+          "duration": 147,
+          "notes": "Instrumental track featuring Lund setting"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440311",
+          "titleJP": "パレード",
+          "titleRomaji": "Parade",
+          "titleEN": "Parade",
+          "trackNumber": 11,
+          "duration": 299,
+          "notes": "Featured in album trailer and MV"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440312",
+          "titleJP": "エルマ",
+          "titleRomaji": "Elma",
+          "titleEN": "Elma",
+          "trackNumber": 12,
+          "duration": 219,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440313",
+          "titleJP": "4/10",
+          "titleRomaji": "4/10",
+          "titleEN": "4/10",
+          "trackNumber": 13,
+          "duration": 170,
+          "notes": "Instrumental track featuring Sekicho setting"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440314",
+          "titleJP": "だから僕は音楽を辞めた",
+          "titleRomaji": "Dakara Boku wa Ongaku wo Yameta",
+          "titleEN": "Moonlight",
+          "trackNumber": 14,
+          "duration": 242,
+          "notes": "Title track depicting protagonist Eimī's conflict over giving up music"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440004",
+      "nameJP": "心に穴が空いた",
+      "nameRomaji": "Kokoro ni Ana ga Aita",
+      "nameEN": "Hole in the Heart",
+      "releaseDate": "2019-06-24",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/135b70f251bb2c82eaf0d3041669c134.jpeg",
+      "description": "Yorushika's first distribution-limited single released on Universal J, marking their major debut with a major label. A digital-only release in the J-POP/Rock genre. Used as a 2019 CM song for Teikyo Heisei University. 4m23s duration.",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440401",
+          "titleJP": "心に穴が空いた",
+          "titleRomaji": "Kokoro ni Ana ga Aita",
+          "titleEN": "Hole in the Heart",
+          "trackNumber": 1,
+          "duration": 263,
+          "notes": "Used as CM song for Teikyo Heisei University 2019"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440005",
+      "nameJP": "エルマ",
+      "nameRomaji": "Elma",
+      "nameEN": "Elma",
+      "releaseDate": "2019-08-28",
+      "type": "ALBUM",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/e92d3f7feab94300fddae604738c9e02.jpeg",
+      "description": "Yorushika's 2nd full album and major label debut with Universal J. A concept album continuing the story of \"だから僕は音楽を辞めた\" from a new perspective. Girl \"Elma\" is influenced by letters from \"Eimī\" and writes songs along his journey. 48m12s runtime, charted at #3 on Oricon and #2 on Billboard Japan. Includes instrumental tracks and multiple music videos.",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440501",
+          "titleJP": "車窓",
+          "titleRomaji": "Shasou",
+          "titleEN": "Train Window",
+          "trackNumber": 1,
+          "duration": 115,
+          "notes": "Instrumental track"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440502",
+          "titleJP": "憂一乗",
+          "titleRomaji": "Yuu Ichijou",
+          "titleEN": "Only Sorrow",
+          "trackNumber": 2,
+          "duration": 272,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440503",
+          "titleJP": "夕凪、某、花惑い",
+          "titleRomaji": "Yuunagi, Nanigashi, Hanamadoi",
+          "titleEN": "Evening Calm, Some Place, Fireworks",
+          "trackNumber": 3,
+          "duration": 198,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440504",
+          "titleJP": "雨とカプチーノ",
+          "titleRomaji": "Ame to Cappuccino",
+          "titleEN": "Rain with Cappuccino",
+          "trackNumber": 4,
+          "duration": 269,
+          "notes": "Featured in music video"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440505",
+          "titleJP": "湖の街",
+          "titleRomaji": "Mizuumi no Machi",
+          "titleEN": "Lakeside Town",
+          "trackNumber": 5,
+          "duration": 110,
+          "notes": "Instrumental track"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440506",
+          "titleJP": "神様のダンス",
+          "titleRomaji": "Kami-sama no Dansu",
+          "titleEN": "Dance of You",
+          "trackNumber": 6,
+          "duration": 232,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440507",
+          "titleJP": "雨晴るる",
+          "titleRomaji": "Ame Haruru",
+          "titleEN": "After the Rain",
+          "trackNumber": 7,
+          "duration": 222,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440508",
+          "titleJP": "歩く",
+          "titleRomaji": "Aruku",
+          "titleEN": "Walk",
+          "trackNumber": 8,
+          "duration": 206,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440509",
+          "titleJP": "心に穴が空いた",
+          "titleRomaji": "Kokoro ni Ana ga Aita",
+          "titleEN": "Hole in the Heart",
+          "trackNumber": 9,
+          "duration": 264,
+          "notes": "Featured in music video and as release single"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440510",
+          "titleJP": "森の教会",
+          "titleRomaji": "Mori no Kyoukai",
+          "titleEN": "The Church in the Forest",
+          "trackNumber": 10,
+          "duration": 119,
+          "notes": "Instrumental track"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440511",
+          "titleJP": "声",
+          "titleRomaji": "Koe",
+          "titleEN": "Voice",
+          "trackNumber": 11,
+          "duration": 288,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440512",
+          "titleJP": "エイミー",
+          "titleRomaji": "Amy",
+          "titleEN": "Amy",
+          "trackNumber": 12,
+          "duration": 212,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440513",
+          "titleJP": "海底、月明かり",
+          "titleRomaji": "Kaitei, Tsukiakari",
+          "titleEN": "Seabed, Moonlight",
+          "trackNumber": 13,
+          "duration": 145,
+          "notes": "Instrumental track"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440514",
+          "titleJP": "ノーチラス",
+          "titleRomaji": "Nautilus",
+          "titleEN": "Nautilus",
+          "trackNumber": 14,
+          "duration": 240,
+          "notes": "Featured in music video and used as drama theme song for \"言の葉\""
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440006",
+      "nameJP": "夜行",
+      "nameRomaji": "Yakou",
+      "nameEN": "Night Journey",
+      "releaseDate": "2020-03-04",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/8e5765cbc347c506f3e44c2ea43a9b2b.jpeg",
+      "description": "Insert song for the animated film \"A Whisker Away\"",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440601",
+          "titleJP": "夜行",
+          "titleRomaji": "Yakou",
+          "titleEN": "Night Journey",
+          "trackNumber": 1,
+          "duration": 204,
+          "notes": "Insert song for \"A Whisker Away\""
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440007",
+      "nameJP": "花に亡霊",
+      "nameRomaji": "Hana ni Bourei",
+      "nameEN": "Ghost in a Flower",
+      "releaseDate": "2020-04-22",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/a1333bf75097a387063eece895472664.jpeg",
+      "description": "Theme song for the animated film \"A Whisker Away\"; Platinum certification for streaming with 100 million plays",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440701",
+          "titleJP": "花に亡霊",
+          "titleRomaji": "Hana ni Bourei",
+          "titleEN": "Ghost in a Flower",
+          "trackNumber": 1,
+          "duration": 240,
+          "notes": "Theme song for \"A Whisker Away\"; Platinum streaming certification; Gold download certification"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440008",
+      "nameJP": "春ひさぎ",
+      "nameRomaji": "Haru Hisagi",
+      "nameEN": "Prostitution",
+      "releaseDate": "2020-06-03",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/c7c674c3c8599d40777e96418ffe81ff.jpeg",
+      "description": "Pre-release single for the album \"Plagiarism\"; swing jazz style with metaphorical lyrics about commerce",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440801",
+          "titleJP": "春ひさぎ",
+          "titleRomaji": "Haru Hisagi",
+          "titleEN": "Prostitution",
+          "trackNumber": 1,
+          "duration": 162,
+          "notes": "Pre-release single for \"Plagiarism\" album"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440009",
+      "nameJP": "思想犯",
+      "nameRomaji": "Shisouhan",
+      "nameEN": "Thought Crime",
+      "releaseDate": "2020-06-24",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/238d4d2ef9578018d521e7da266ea617.png",
+      "description": "Pre-release single for the album \"Plagiarism\"; inspired by George Orwell's \"1984\" and Ozaki Hosai's works",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440901",
+          "titleJP": "思想犯",
+          "titleRomaji": "Shisouhan",
+          "titleEN": "Thought Crime",
+          "trackNumber": 1,
+          "duration": 252,
+          "notes": "Pre-release for \"Plagiarism\" album; inspired by Orwell's \"1984\" and Ozaki Hosai's poetry"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440010",
+      "nameJP": "盗作",
+      "nameRomaji": "Tousaku",
+      "nameEN": "Plagiarism",
+      "releaseDate": "2020-07-22",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/a812abff3f9a995fd04d96faa248ec01.png",
+      "description": "Pre-release single for the album \"Plagiarism\"",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440a01",
+          "titleJP": "盗作",
+          "titleRomaji": "Tousaku",
+          "titleEN": "Plagiarism",
+          "trackNumber": 1,
+          "duration": 239,
+          "notes": "Pre-release single; also FFBE: War of the Visions CM song"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440011",
+      "nameJP": "盗作",
+      "nameRomaji": "Tousaku",
+      "nameEN": "Plagiarism",
+      "releaseDate": "2020-07-29",
+      "type": "ALBUM",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/d46f335b9c9bcc9eadbfd1444e58e113.png",
+      "description": "Conceptual album about a man who commits music plagiarism; explores themes of artistic value and authenticity; initial edition includes 130-page novel; features quotes and references to classic pieces",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b01",
+          "titleJP": "音楽泥棒の自白",
+          "titleRomaji": "Ongaku Dorobou no Jihaku",
+          "titleEN": "Confession of a Music Thief",
+          "trackNumber": 1,
+          "duration": 72,
+          "notes": "Instrumental; features Beethoven's \"Moonlight\" reference"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b02",
+          "titleJP": "昼鳶",
+          "titleRomaji": "Hirutonbi",
+          "titleEN": "Daytime Thief",
+          "trackNumber": 2,
+          "duration": 162,
+          "notes": "Acoustic guitar with slap technique"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b03",
+          "titleJP": "春ひさぎ",
+          "titleRomaji": "Haru Hisagi",
+          "titleEN": "Prostitution",
+          "trackNumber": 3,
+          "duration": 217,
+          "notes": "Swing jazz interpretation with metaphorical lyrics"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b04",
+          "titleJP": "爆弾魔 - Re-Recording",
+          "titleRomaji": "Bakudanma [Re-Recording]",
+          "titleEN": "Compulsive Bomber (Re-Recording)",
+          "trackNumber": 4,
+          "duration": 215,
+          "notes": "Re-recording from \"Underdog\" mini-album"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b05",
+          "titleJP": "青年期、空き巣",
+          "titleRomaji": "Seinenki, Akisu",
+          "titleEN": "Adolescence, Burglary",
+          "trackNumber": 5,
+          "duration": 76,
+          "notes": "Instrumental; features Grieg's \"Morning\" reference"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b06",
+          "titleJP": "レプリカント",
+          "titleRomaji": "Replicant",
+          "titleEN": "Replicant",
+          "trackNumber": 6,
+          "duration": 217,
+          "notes": "Addresses theme of artificiality"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b07",
+          "titleJP": "花人局",
+          "titleRomaji": "Hanamotase",
+          "titleEN": "Flower and Badger Game",
+          "trackNumber": 7,
+          "duration": 332,
+          "notes": "Album turning point; depicts protagonist's wife with tender melody"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b08",
+          "titleJP": "朱夏期、音楽泥棒",
+          "titleRomaji": "Shukaki, Ongaku Dorobou",
+          "titleEN": "Early Adulthood, Music Thief",
+          "trackNumber": 8,
+          "duration": 108,
+          "notes": "Instrumental; features Erik Satie's \"Gymnopédie\" reference"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b09",
+          "titleJP": "盗作",
+          "titleRomaji": "Tousaku",
+          "titleEN": "Plagiarism",
+          "trackNumber": 9,
+          "duration": 239,
+          "notes": "Title track expressing core album theme"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b10",
+          "titleJP": "思想犯",
+          "titleRomaji": "Shisouhan",
+          "titleEN": "Thought Crime",
+          "trackNumber": 10,
+          "duration": 252,
+          "notes": "Orwell's \"1984\" inspired; homages to Ozaki Hosai's works"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b11",
+          "titleJP": "逃亡",
+          "titleRomaji": "Toubou",
+          "titleEN": "Running Away",
+          "trackNumber": 11,
+          "duration": 287,
+          "notes": "Jazz-styled with sampling technique; escape as central theme"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b12",
+          "titleJP": "幼年期、思い出の中",
+          "titleRomaji": "Youshouki, Omoide no Naka",
+          "titleEN": "Childhood, Within Memories",
+          "trackNumber": 12,
+          "duration": 140,
+          "notes": "Instrumental; expresses twilight imagery"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b13",
+          "titleJP": "夜行",
+          "titleRomaji": "Yakou",
+          "titleEN": "Night Journey",
+          "trackNumber": 13,
+          "duration": 202,
+          "notes": "Insert song for \"A Whisker Away\""
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440b14",
+          "titleJP": "花に亡霊",
+          "titleRomaji": "Hana ni Bourei",
+          "titleEN": "Ghost in a Flower",
+          "trackNumber": 14,
+          "duration": 241,
+          "notes": "Theme song for \"A Whisker Away\"; album finale with summer atmosphere"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440012",
+      "nameJP": "風を食む",
+      "nameRomaji": "Kaze wo Hamu",
+      "nameEN": "Eat the Wind",
+      "releaseDate": "2020-10-07",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/7259eaf9911056366bcc17260e06bc20.png",
+      "description": "Ending theme for TBS \"NEWS23\"; explores themes of consumption fatigue and gentle solace",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440c01",
+          "titleJP": "風を食む",
+          "titleRomaji": "Kaze wo Hamu",
+          "titleEN": "Eat the Wind",
+          "trackNumber": 1,
+          "duration": 269,
+          "notes": "TBS \"NEWS23\" ending theme"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440013",
+      "nameJP": "春泥棒",
+      "nameRomaji": "Haru Dorobou",
+      "nameEN": "Spring Thief",
+      "releaseDate": "2021-01-09",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/b90538873566813886379469ffb41b6e.jpeg",
+      "description": "Distribution-limited single featuring Gold download and Platinum streaming certifications",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440d01",
+          "titleJP": "春泥棒",
+          "titleRomaji": "Haru Dorobou",
+          "titleEN": "Spring Thief",
+          "trackNumber": 1,
+          "duration": 290,
+          "notes": "Based on n-buna's observation of Zelkova tree; spring wind as metaphor for time"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440014",
+      "nameJP": "創作",
+      "nameRomaji": "Sousaku",
+      "nameEN": "Creation",
+      "releaseDate": "2021-01-27",
+      "type": "EP",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/1b2e9db3844bbda3f9bb1b38a93ed79a.jpeg",
+      "description": "Yorushika's first EP; conceptual collection questioning the nature of physical media in streaming age",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440e01",
+          "titleJP": "強盗と花束",
+          "titleRomaji": "Goutou to Hanataba",
+          "titleEN": "Robbery and Bouquet",
+          "trackNumber": 1,
+          "duration": 190,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440e02",
+          "titleJP": "春泥棒",
+          "titleRomaji": "Haru Dorobou",
+          "titleEN": "Spring Thief",
+          "trackNumber": 2,
+          "duration": 290,
+          "notes": null
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440e03",
+          "titleJP": "創作",
+          "titleRomaji": "Sousaku",
+          "titleEN": "Creation",
+          "trackNumber": 3,
+          "duration": 93,
+          "notes": "Instrumental"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440e04",
+          "titleJP": "風を食む",
+          "titleRomaji": "Kaze wo Hamu",
+          "titleEN": "Eat the Wind",
+          "trackNumber": 4,
+          "duration": 265,
+          "notes": "TBS \"NEWS23\" ending theme"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440e05",
+          "titleJP": "嘘月",
+          "titleRomaji": "Usotsuki",
+          "titleEN": "Liar",
+          "trackNumber": 5,
+          "duration": 290,
+          "notes": "Ending song for \"A Whisker Away\""
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440015",
+      "nameJP": "又三郎",
+      "nameRomaji": "Matasaburo",
+      "nameEN": "Matasaburo",
+      "releaseDate": "2021-06-07",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/f814cf15b0d0fb77a84c0f630616905e.jpeg",
+      "description": "Distribution-limited single inspired by Kenji Miyazawa's \"The Wind Boy\"; expresses desire to break through modern societal stagnation",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440f01",
+          "titleJP": "又三郎",
+          "titleRomaji": "Matasaburo",
+          "titleEN": "Matasaburo",
+          "trackNumber": 1,
+          "duration": 228,
+          "notes": "Based on Miyazawa Kenji's \"The Wind Boy\"; dAnimeStore CM song"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440016",
+      "nameJP": "老人と海",
+      "nameRomaji": "Roujin to Umi",
+      "nameEN": "The Old Man and The Sea",
+      "releaseDate": "2021-08-18",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/5635fc733a83374278e191c30322b124.jpeg",
+      "description": "Single released on August 18, 2021. The song is inspired by Ernest Hemingway's novel \"The Old Man and the Sea\" and was used as a CM song for STAFF START.",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440g01",
+          "titleJP": "老人と海",
+          "titleRomaji": "Roujin to Umi",
+          "titleEN": "The Old Man and The Sea",
+          "trackNumber": 1,
+          "duration": 255,
+          "notes": "Literary homage to Hemingway's novel; part of a series of literature-inspired works following \"Matasaburo\""
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440017",
+      "nameJP": "月に吠える",
+      "nameRomaji": "Tsuki ni Hoeru",
+      "nameEN": "Howl at the Moon",
+      "releaseDate": "2021-10-06",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/b089a88c1cef0104b52196f2172ecbbf.jpeg",
+      "description": "Single released on October 6, 2021. The 8th distribution work inspired by Hagiwara Sakutaro's poetry collection \"Howl at the Moon\".",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440h01",
+          "titleJP": "月に吠える",
+          "titleRomaji": "Tsuki ni Hoeru",
+          "titleEN": "Howl at the Moon",
+          "trackNumber": 1,
+          "duration": 266,
+          "notes": "Literary homage to Hagiwara Sakutaro's poetry collection; continues the pattern of literature-inspired compositions"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440018",
+      "nameJP": "ブレーメン",
+      "nameRomaji": "Bremen",
+      "nameEN": "Bremen",
+      "releaseDate": "2022-07-04",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/307991377808f74a4094d75d0c26d3e6.jpeg",
+      "description": "Single released on July 4, 2022. The 9th distribution work inspired by the Grimm Brothers' \"The Town Musicians of Bremen\" (Brementown Musicians).",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440i01",
+          "titleJP": "ブレーメン",
+          "titleRomaji": "Bremen",
+          "titleEN": "Bremen",
+          "trackNumber": 1,
+          "duration": 275,
+          "notes": "Literary homage to Grimm Brothers' fairy tale; jacket artwork by Takashi Kato"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440019",
+      "nameJP": "左右盲",
+      "nameRomaji": "Sayuumou",
+      "nameEN": "Left-Right Confusion",
+      "releaseDate": "2022-07-25",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/c1c98a5d186db54acef3356045d62195.jpeg",
+      "description": "Single released on July 25, 2022. Part of the continuing series of literature-inspired compositions.",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440j01",
+          "titleJP": "左右盲",
+          "titleRomaji": "Sayuumou",
+          "titleEN": "Left-Right Confusion",
+          "trackNumber": 1,
+          "duration": 267,
+          "notes": "Continues the literary homage series pattern"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440020",
+      "nameJP": "チノカテ",
+      "nameRomaji": "Chinokate",
+      "nameEN": "Chinokate",
+      "releaseDate": "2022-08-29",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/c511e005cea2a91ea4eb512db674a7a7.jpeg",
+      "description": "Single released on August 29, 2022. The 11th distribution work inspired by André Gide's \"The Fruits of the Earth\" (Les Nourritures Terrestres). Written as the theme song for Fuji TV drama \"Maho no Renove\".",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440k01",
+          "titleJP": "チノカテ",
+          "titleRomaji": "Chinokate",
+          "titleEN": "Chinokate",
+          "trackNumber": 1,
+          "duration": 248,
+          "notes": "Literary homage to André Gide's work; drama theme song; jacket artwork by Takashi Kato"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440021",
+      "nameJP": "テレパス",
+      "nameRomaji": "Telepath",
+      "nameEN": "Telepath",
+      "releaseDate": "2023-01-12",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/c9280fd01d555c210f2e309f2810d328.jpeg",
+      "description": "Single released on January 12, 2023. The 12th distribution work written as the opening theme for TV anime \"Kaiseki no Kaina\" (大雪海のカイナ). Based on n-buna's concept of \"selfless empathy as telepathy\".",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440l01",
+          "titleJP": "テレパス",
+          "titleRomaji": "Telepath",
+          "titleEN": "Telepath",
+          "trackNumber": 1,
+          "duration": 293,
+          "notes": "Anime opening theme for \"Kaiseki no Kaina\"; artwork by Tetsuya Nagato; debut vocal track for collaboration"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440022",
+      "nameJP": "アルジャーノン",
+      "nameRomaji": "Algernon",
+      "nameEN": "Algernon",
+      "releaseDate": "2023-02-06",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/a6ba3ff42f1a94cfdea66f84c1a7acea.jpeg",
+      "description": "Single released on March 8, 2023. Later included in the Magic Lantern album as part of the poetry and literature homage series.",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440m01",
+          "titleJP": "アルジャーノン",
+          "titleRomaji": "Algernon",
+          "titleEN": "Algernon",
+          "trackNumber": 1,
+          "duration": 253,
+          "notes": "Homage to Ray Bradbury's \"Fahrenheit 451\"; debut n-buna main vocal track for the band"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440023",
+      "nameJP": "451",
+      "nameRomaji": "451",
+      "nameEN": "451",
+      "releaseDate": "2023-03-08",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/d3fbcf9c93e67df9a6140dd182f967b9.jpeg",
+      "description": "Single released on February 6, 2023. The digital single later included in the Magic Lantern album. Yorushika's first track featuring n-buna as the main vocalist.",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440n01",
+          "titleJP": "451",
+          "titleRomaji": "451",
+          "titleEN": "451",
+          "trackNumber": 1,
+          "duration": 209,
+          "notes": "Homage to Daniel Keyes' \"Flowers for Algernon\"; used as drama theme song for TBS \"Tasogare ni, te wo tsunagu\""
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440024",
+      "nameJP": "幻燈",
+      "nameRomaji": "Gentou",
+      "nameEN": "Magic Lantern",
+      "releaseDate": "2023-04-05",
+      "type": "ALBUM",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/000049e271bc349f0a25bd427a43f0c7.jpeg",
+      "description": "Music art book (\"listenable art book\") released on April 5, 2023. Features 25 compositions across two chapters: \"Chapter 1: Portrait of Summer\" and \"Chapter 2: Dancing Animals\". Includes all previously released singles. Unique format: use smartphone camera to scan art by Takashi Kato to listen to music.",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o01",
+          "titleJP": "夏の肖像",
+          "titleRomaji": "Natsu no Shouzou",
+          "titleEN": "Portrait of Summer",
+          "trackNumber": 1,
+          "duration": 325,
+          "notes": "Opening track of Chapter 1"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o02",
+          "titleJP": "都落ち",
+          "titleRomaji": "Miyakoochi",
+          "titleEN": "Miyakoochi",
+          "trackNumber": 2,
+          "duration": 250,
+          "notes": "Chapter 1 track 2"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o03",
+          "titleJP": "ブレーメン",
+          "titleRomaji": "Bremen",
+          "titleEN": "Bremen",
+          "trackNumber": 3,
+          "duration": 272,
+          "notes": "Previously released single; Chapter 1 track 3"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o04",
+          "titleJP": "チノカテ",
+          "titleRomaji": "Chinokate",
+          "titleEN": "Chinokate",
+          "trackNumber": 4,
+          "duration": 247,
+          "notes": "Previously released single; Chapter 1 track 4"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o05",
+          "titleJP": "雪国",
+          "titleRomaji": "Yukiguni",
+          "titleEN": "Snow Country",
+          "trackNumber": 5,
+          "duration": 287,
+          "notes": "Chapter 1 track 5"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o06",
+          "titleJP": "月に吠える",
+          "titleRomaji": "Tsuki ni Hoeru",
+          "titleEN": "Howl at the Moon",
+          "trackNumber": 6,
+          "duration": 266,
+          "notes": "Previously released single; Chapter 1 track 6"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o07",
+          "titleJP": "451",
+          "titleRomaji": "451",
+          "titleEN": "451",
+          "trackNumber": 7,
+          "duration": 209,
+          "notes": "Previously released single; n-buna main vocal debut; Chapter 1 track 7; literary homage to Ray Bradbury's \"Fahrenheit 451\""
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o08",
+          "titleJP": "パドドゥ",
+          "titleRomaji": "Pas de deux",
+          "titleEN": "Pas de deux",
+          "trackNumber": 8,
+          "duration": 262,
+          "notes": "Chapter 1 track 8"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o09",
+          "titleJP": "又三郎",
+          "titleRomaji": "Matasaburo",
+          "titleEN": "Matasaburo",
+          "trackNumber": 9,
+          "duration": 229,
+          "notes": "Previously released single; Chapter 1 track 9"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o10",
+          "titleJP": "靴の花火",
+          "titleRomaji": "Kutsu no Hanabi [Re-recording]",
+          "titleEN": "Fireworks Beneath My Shoes (Re-recording)",
+          "trackNumber": 10,
+          "duration": 305,
+          "notes": "Re-recording; originally from debut mini album; Chapter 1 track 10"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o11",
+          "titleJP": "老人と海",
+          "titleRomaji": "Roujin to Umi",
+          "titleEN": "The Old Man and The Sea",
+          "trackNumber": 11,
+          "duration": 255,
+          "notes": "Previously released single; Chapter 1 track 11; literary homage to Hemingway"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o12",
+          "titleJP": "さよならモルテン",
+          "titleRomaji": "Sayonara Morten",
+          "titleEN": "Goodbye Morten",
+          "trackNumber": 12,
+          "duration": 295,
+          "notes": "Chapter 1 track 12"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o13",
+          "titleJP": "いさな",
+          "titleRomaji": "Isana",
+          "titleEN": "Whale",
+          "trackNumber": 13,
+          "duration": 264,
+          "notes": "Chapter 1 track 13"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o14",
+          "titleJP": "左右盲",
+          "titleRomaji": "Sayuumou",
+          "titleEN": "Left-Right Confusion",
+          "trackNumber": 14,
+          "duration": 267,
+          "notes": "Previously released single; Chapter 1 track 14"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o15",
+          "titleJP": "アルジャーノン",
+          "titleRomaji": "Algernon",
+          "titleEN": "Algernon",
+          "trackNumber": 15,
+          "duration": 253,
+          "notes": "Previously released single; Chapter 1 track 15; literary homage to Daniel Keyes' \"Flowers for Algernon\""
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o16",
+          "titleJP": "第一夜",
+          "titleRomaji": "Daiichiya",
+          "titleEN": "The First Night",
+          "trackNumber": 16,
+          "duration": 260,
+          "notes": "Opening track of Chapter 2; contains suis vocals; only vocal track in Chapter 2"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o17",
+          "titleJP": "第二夜",
+          "titleRomaji": "Dainiya",
+          "titleEN": "The Second Night",
+          "trackNumber": 17,
+          "duration": 253,
+          "notes": "Chapter 2 track 2; instrumental"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o18",
+          "titleJP": "第三夜",
+          "titleRomaji": "Daisanya",
+          "titleEN": "The Third Night",
+          "trackNumber": 18,
+          "duration": 231,
+          "notes": "Chapter 2 track 3; instrumental"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o19",
+          "titleJP": "第四夜",
+          "titleRomaji": "Daiyonya",
+          "titleEN": "The Fourth Night",
+          "trackNumber": 19,
+          "duration": 202,
+          "notes": "Chapter 2 track 4; instrumental"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o20",
+          "titleJP": "第五夜",
+          "titleRomaji": "Daigoya",
+          "titleEN": "The Fifth Night",
+          "trackNumber": 20,
+          "duration": 220,
+          "notes": "Chapter 2 track 5; instrumental"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o21",
+          "titleJP": "第六夜",
+          "titleRomaji": "Dairokuya",
+          "titleEN": "The Sixth Night",
+          "trackNumber": 21,
+          "duration": 146,
+          "notes": "Chapter 2 track 6; instrumental; shortest track in the album"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o22",
+          "titleJP": "第七夜",
+          "titleRomaji": "Daishichiya",
+          "titleEN": "The Seventh Night",
+          "trackNumber": 22,
+          "duration": 193,
+          "notes": "Chapter 2 track 7; instrumental"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o23",
+          "titleJP": "第八夜",
+          "titleRomaji": "Daihachiya",
+          "titleEN": "The Eighth Night",
+          "trackNumber": 23,
+          "duration": 181,
+          "notes": "Chapter 2 track 8; instrumental"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o24",
+          "titleJP": "第九夜",
+          "titleRomaji": "Daikyuuya",
+          "titleEN": "The Ninth Night",
+          "trackNumber": 24,
+          "duration": 143,
+          "notes": "Chapter 2 track 9; instrumental"
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440o25",
+          "titleJP": "第十夜",
+          "titleRomaji": "Daijyuuya",
+          "titleEN": "The Tenth Night",
+          "trackNumber": 25,
+          "duration": 228,
+          "notes": "Closing track of Chapter 2; instrumental; final composition"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440025",
+      "nameJP": "斜陽",
+      "nameRomaji": "Shayou",
+      "nameEN": "Setting Sun",
+      "releaseDate": "2023-05-08",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/44527d670e625caffda32c4f3343fb62.jpeg",
+      "description": "Single released on May 8, 2023. The 13th distribution work written as the opening theme for TV anime \"Boku no Kokoro no Yabai Yatsu\" (僕の心のヤバイやつ). n-buna described using simple metaphors for difficult-to-express relationships; suis noted the song contains \"summer components\".",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440p01",
+          "titleJP": "斜陽",
+          "titleRomaji": "Shayou",
+          "titleEN": "Setting Sun",
+          "trackNumber": 1,
+          "duration": 200,
+          "notes": "Anime opening theme for \"Boku no Kokoro no Yabai Yatsu\"; contains summer elements"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440026",
+      "nameJP": "月光浴",
+      "nameRomaji": "Gekkouyoku",
+      "nameEN": "Moonbath",
+      "releaseDate": "2023-10-13",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/3f7f764021ed10dbd76b32fe5d08ce62.jpeg",
+      "description": "16th digital single by Yorushika released as the theme song for the animated movie \"Kaina of the Great Snow Sea: Star Sage\"",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440q01",
+          "titleJP": "月光浴",
+          "titleRomaji": "Gekkouyoku",
+          "titleEN": "Moonbath",
+          "trackNumber": 1,
+          "duration": 248,
+          "notes": "Theme song for the animated film"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440027",
+      "nameJP": "晴る",
+      "nameRomaji": "Haru",
+      "nameEN": "Sunny",
+      "releaseDate": "2024-01-05",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/b3f17612fe0aa314eb1b291cca729865.jpeg",
+      "description": "Opening theme for the second cour of anime \"Frieren: Beyond Journey's End.\" The song expresses the feeling of clearing weather and wishing for brightness, mirroring the characters' journey",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440r01",
+          "titleJP": "晴る",
+          "titleRomaji": "Haru",
+          "titleEN": "Sunny",
+          "trackNumber": 1,
+          "duration": 270,
+          "notes": "Opening theme for anime; n-buna states the song is \"about clearing, or more precisely wishing for clearing from a state of not clearing\""
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440028",
+      "nameJP": "ルバート",
+      "nameRomaji": "Rubato",
+      "nameEN": "Rubato",
+      "releaseDate": "2024-05-29",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/dfd603e25300e7a2296a40b9a95e9e6f.jpeg",
+      "description": "18th digital single by Yorushika. The title \"Rubato\" is a musical term referring to flexible tempo or elastic rhythm, allowing performers to naturally vary rhythm, speed, and musical timing to express emotion more freely. The song features introspective lyrics about seeking things that never become tiresome, with themes of memory, enjoyment, and sadness",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440s01",
+          "titleJP": "ルバート",
+          "titleRomaji": "Rubato",
+          "titleEN": "Rubato",
+          "trackNumber": 1,
+          "duration": 231,
+          "notes": "Musical term meaning flexible/elastic tempo; explores themes of seeking lasting joy while reflecting on past musical attachments"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440029",
+      "nameJP": "忘れてください",
+      "nameRomaji": "Wasuretekudasai",
+      "nameEN": "Forget It",
+      "releaseDate": "2024-07-13",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/00b49604d8e74a67014951d1de1e7a51.jpeg",
+      "description": "Written for the NTV drama \"GO HOME Keishicho Mimotsumeinin Sodan-shitsu\" about searching for missing persons. The song features piano and guitar with hand claps, expressing themes of disappearance and farewell. Influenced by poet Hakushū Kitahara's poetry",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440t01",
+          "titleJP": "忘れてください",
+          "titleRomaji": "Wasuretekudasai",
+          "titleEN": "Forget It",
+          "trackNumber": 1,
+          "duration": 218,
+          "notes": "Theme song for NTV drama \"GO HOME\"; depicts a story of two living in a small house, with the protagonist wishing to be forgotten"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440030",
+      "nameJP": "アポリア",
+      "nameRomaji": "Aporia",
+      "nameEN": "Aporia",
+      "releaseDate": "2024-10-07",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/279da020ea98ded46025e544583daf59.jpeg",
+      "description": "Ending theme for NHK anime \"Chi: Earth's Motions.\" The philosophical title \"Aporia\" refers to an unsolvable problem or state of confusion. The song explores the desire to know unknowable things, with lyrics featuring a balloon as a metaphor for boundless knowledge",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440u01",
+          "titleJP": "アポリア",
+          "titleRomaji": "Aporia",
+          "titleEN": "Aporia",
+          "trackNumber": 1,
+          "duration": 231,
+          "notes": "Ending theme for anime; mandolin recorded spontaneously the day after n-buna purchased the instrument"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440031",
+      "nameJP": "太陽",
+      "nameRomaji": "Taiyou",
+      "nameEN": "Sun",
+      "releaseDate": "2024-11-22",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/a5101d2a60650537403c7ab31f1bf96f.jpeg",
+      "description": "Theme song for the Shochiku film \"Shoutai,\" inspired by the motif of the sun with sunlight portrayed as butterfly wings. The song features collaboration with art director Tetsuga Nagato in their first project together since 2020. Themes include the sun illuminating all aspects of existence equally",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440v01",
+          "titleJP": "太陽",
+          "titleRomaji": "Taiyou",
+          "titleEN": "Sun",
+          "trackNumber": 1,
+          "duration": 266,
+          "notes": "Theme song for film; features art direction and music video by Tetsuga Nagato following collaboration on \"Plagiarism\" album; exhibition held in Harajuku"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440032",
+      "nameJP": "へび",
+      "nameRomaji": "Hebi",
+      "nameEN": "Snake",
+      "releaseDate": "2025-01-17",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/b9cd9048cf9a7882d5a49e3520ac5999.jpeg",
+      "description": "Ending theme for NHK anime \"Chi: Earth's Motions\" (episodes 16+), replacing \"Aporia.\" Inspired by Tang poet Yuan Zhen's poem \"Parting Sorrow,\" the song explores awakening and knowledge with snake scales as a theme, featuring seasonal imagery from spring through winter",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440w01",
+          "titleJP": "へび",
+          "titleRomaji": "Hebi",
+          "titleEN": "Snake",
+          "trackNumber": 1,
+          "duration": 256,
+          "notes": "Ending theme for anime replacing \"Aporia\"; inspired by poet Yuan Zhen's classical Chinese verse; explores themes of awakening knowledge"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440033",
+      "nameJP": "火星人",
+      "nameRomaji": "Kaseihito",
+      "nameEN": "Martian",
+      "releaseDate": "2025-05-09",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/f6f240954b779ad1b39839c3c7d1aa90.jpeg",
+      "description": "Opening theme for the second season of anime \"Little Man Series.\" Inspired by poet Hagiwara Sakutaro's poem \"Cat,\" the song explores the desire to escape to Mars as an ideal place. Features n-buna's directorial debut for the music video with piano-jazz instrumentation and artistic animation",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440x01",
+          "titleJP": "火星人",
+          "titleRomaji": "Kaseihito",
+          "titleEN": "Martian",
+          "trackNumber": 1,
+          "duration": 234,
+          "notes": "Opening theme for anime; n-buna's directorial debut for music video; themes of escaping to Mars as idealistic alternative"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440034",
+      "nameJP": "修羅",
+      "nameRomaji": "Shura",
+      "nameEN": "Shura",
+      "releaseDate": "2025-08-08",
+      "type": "SINGLE",
+      "coverArtURL": "https://s3-aop.plusmember.jp/prod/public/yorushika/contents/discography/e09fa65e43fa6f7ba4b91f48451d5edf.jpeg",
+      "description": "Theme song for Kansai TV/Fuji TV drama \"We Don't Know the Rules of That Star Yet,\" inspired by Kenji Miyazawa's poetry collection \"Spring and Asura.\" The neo-soul influenced song features drums, congas, and trumpet, exploring themes of internal struggle with a literary foundation",
+      "songs": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440y01",
+          "titleJP": "修羅",
+          "titleRomaji": "Shura",
+          "titleEN": "Shura",
+          "trackNumber": 1,
+          "duration": 237,
+          "notes": "Theme song for drama; inspired by Kenji Miyazawa's \"Spring and Asura\"; features congas in Masack's debut and neo-soul style"
+        }
+      ]
+    }
+  ]
+}
